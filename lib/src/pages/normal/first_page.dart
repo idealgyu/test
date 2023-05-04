@@ -14,7 +14,7 @@ class FirstPage extends StatelessWidget {
       body: Center(
         child: Container(
           child: ElevatedButton(
-            child: Text('두번째 페이지로 라우트'),
+            child: Text('두번째 페이지로 라우트 ㄱㅏ즈아~~'),
             onPressed: (){
               Get.to(SecondPage());
             },
